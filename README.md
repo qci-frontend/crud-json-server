@@ -1,12 +1,14 @@
-############################################################
+###################################################################################################
 
-#Created Demo By : Nishit Manjarawala                      #
+#Created Demo By : Nishit Manjarawala                      
 
-#Email : manjarawalanishit@gmail.com                       #
+#Email : manjarawalanishit@gmail.com                       
 
-#Description : Angular 4 Crud opration With Json Server    #
+#Description : Angular 4 Crud opration With Json Server    
 
-############################################################
+#You can find same demo explainae on youtube :https://www.youtube.com/watch?v=HCHvrbAd1QA
+
+####################################################################################################
 
 #Step To Run Project:
 
@@ -22,7 +24,7 @@
 
 #(6). Check project running on localhost:4200
 
-#######################################################################################################################################
+##########################################################################################################
 
 
 # A5GridDemo
