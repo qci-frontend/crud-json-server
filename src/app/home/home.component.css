@@ -1,0 +1,6 @@
+.product-table{
+    margin: auto;
+}
+.product-table td,.product-table th{
+    padding: 5px;
+}
