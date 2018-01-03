@@ -1,3 +1,30 @@
+############################################################
+
+#Created Demo By : Nishit Manjarawala                      #
+
+#Email : manjarawalanishit@gmail.com                       #
+
+#Description : Angular 4 Crud opration With Json Server    #
+
+############################################################
+
+#Step To Run Project:
+
+#(1). open command line
+
+#(2). go to root directory and find product.json file if it exist follow next step.
+
+#(3). in cmd go to root directory of project and run command to create virtual json server: json-server -p 5555 product.json
+
+#(4). check you json server working or not by navigate in browser on url : localhost:5555/products
+
+#(5). run in new cmd command in new terminal : ng serve
+
+#(6). Check project running on localhost:4200
+
+#######################################################################################################################################
+
+
 # A5GridDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
