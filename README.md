@@ -8,11 +8,11 @@
 
 #You can find same demo explainae on youtube :
 
-#Part 1: https://www.youtube.com/watch?v=HCHvrbAd1QA
+#Part 1: https://youtu.be/0Evh8lKYhL4?list=PLDzOBHY6mkQWz4BSLVU9cZtP7iqs3d475
 
-#Part 2: https://www.youtube.com/watch?v=WVlNj_6_-uA
+#Part 2: https://youtu.be/N0eLnI9FvbM?list=PLDzOBHY6mkQWz4BSLVU9cZtP7iqs3d475
 
-#Part 3:https://www.youtube.com/watch?v=6T1TF7lgVSA
+#Part 3:https://youtu.be/RrZmSoM6dxE?list=PLDzOBHY6mkQWz4BSLVU9cZtP7iqs3d475
 
 ####################################################################################################
 
