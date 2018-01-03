@@ -6,7 +6,13 @@
 
 #Description : Angular 4 Crud opration With Json Server    
 
-#You can find same demo explainae on youtube :https://www.youtube.com/watch?v=HCHvrbAd1QA
+#You can find same demo explainae on youtube :
+
+#Part 1: https://www.youtube.com/watch?v=HCHvrbAd1QA
+
+#Part 2: https://www.youtube.com/watch?v=WVlNj_6_-uA
+
+#Part 3:https://www.youtube.com/watch?v=6T1TF7lgVSA
 
 ####################################################################################################
 
