@@ -1,20 +1,9 @@
 ###################################################################################################
 
-#Created Demo By : Nishit Manjarawala                      
+#FOR COMPLETE reference...
+1. Clone the project
+2. In root directory RUN git log
 
-#Email : manjarawalanishit@gmail.com                       
-
-#Description : Angular 4 Crud opration With Json Server    
-
-#You can find same demo explainae on youtube :
-
-#Part 1: https://youtu.be/0Evh8lKYhL4?list=PLDzOBHY6mkQWz4BSLVU9cZtP7iqs3d475
-
-#Part 2: https://youtu.be/N0eLnI9FvbM?list=PLDzOBHY6mkQWz4BSLVU9cZtP7iqs3d475
-
-#Part 3:https://youtu.be/RrZmSoM6dxE?list=PLDzOBHY6mkQWz4BSLVU9cZtP7iqs3d475
-
-####################################################################################################
 
 #Step To Run Project:
 
@@ -33,7 +22,7 @@
 ##########################################################################################################
 
 
-# A5GridDemo
+# Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
